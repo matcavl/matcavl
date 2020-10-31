@@ -17,7 +17,7 @@
   <b>Knowledge in codes:</b><br>
   <img src="https://user-images.githubusercontent.com/71419758/96328607-6172b180-101b-11eb-8de4-81c94280bc05.png" width="32px">
   <img src="https://user-images.githubusercontent.com/71419758/96328608-63d50b80-101b-11eb-82b9-16f1cc817a6d.png" width="32px">
-  <img src="https://user-images.githubusercontent.com/71419758/96328617-78190880-101b-11eb-8c44-48c751a62558.png" width="32px">
+  <img src="https://user-images.githubusercontent.com/71419758/96328909-4ce3e880-101e-11eb-8509-5ef4ec3f14aa.png" width="30px">
   <img src="https://user-images.githubusercontent.com/71419758/96328711-64ba6d00-101c-11eb-96ec-9c43920b198b.png" width="30px">
   <img src="https://user-images.githubusercontent.com/71419758/96328715-73a11f80-101c-11eb-9572-cad128eba19e.png" width="30px">
   <img src="https://user-images.githubusercontent.com/71419758/96328721-84519580-101c-11eb-9975-06aa8d5e4175.png" width="30px">
