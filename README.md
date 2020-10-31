@@ -1,4 +1,4 @@
-<p align="center"> <b>Fala, Visitante! Me chamo Mateus Cavalcanti</b> 👋 </p>
+<p align="center"> <b>Fala, Visitante! Me chamo Mateus Cavalcanti</b> 🖖🏻 </p>
 <p align="center"> Sou estudante de Analise e Desenvolvimento de Sistemas. Completamente apaixonado pelo Desenvolvimento Backend e por tecnologias de Criptografia, Descentralização, Blockchain e Bitcoin.</p>
 
 <hr>
@@ -17,7 +17,7 @@
   <b>Knowledge in codes:</b><br>
   <img src="https://user-images.githubusercontent.com/71419758/96328607-6172b180-101b-11eb-8de4-81c94280bc05.png" width="32px">
   <img src="https://user-images.githubusercontent.com/71419758/96328608-63d50b80-101b-11eb-82b9-16f1cc817a6d.png" width="32px">
-  <img src="https://user-images.githubusercontent.com/71419758/96328909-4ce3e880-101e-11eb-8509-5ef4ec3f14aa.png" width="30px">
+  <img src="https://user-images.githubusercontent.com/73726439/97770673-25a81380-1b14-11eb-8c84-20e931164d08.png" width="42px">
   <img src="https://user-images.githubusercontent.com/71419758/96328711-64ba6d00-101c-11eb-96ec-9c43920b198b.png" width="30px">
   <img src="https://user-images.githubusercontent.com/71419758/96328715-73a11f80-101c-11eb-9572-cad128eba19e.png" width="30px">
   <img src="https://user-images.githubusercontent.com/71419758/96328721-84519580-101c-11eb-9975-06aa8d5e4175.png" width="30px">
@@ -25,7 +25,7 @@
 
 <p align="center">
   <b>I'm current Learning:</b><br>
-  <img src="https://user-images.githubusercontent.com/71419758/96328909-4ce3e880-101e-11eb-8509-5ef4ec3f14aa.png" width="30px">
+  <img src="https://user-images.githubusercontent.com/73726439/97770673-25a81380-1b14-11eb-8c84-20e931164d08.png" width="40px">
   <img src="https://user-images.githubusercontent.com/71419758/96328800-16f23480-101d-11eb-801c-7b8023928087.png" width="30px">
 </p>
 
