@@ -1,5 +1,5 @@
 <p align="center"> <b>Fala, Visitante! Me chamo Mateus Cavalcanti</b> 🖖🏻 </p>
-<p align="center"> Sou estudante de Analise e Desenvolvimento de Sistemas. Completamente apaixonado pelo Desenvolvimento Backend e por tecnologias de Criptografia, Descentralização, Blockchain e Bitcoin.</p>
+<p align="center"> Sou estudante de Analise e Desenvolvimento de Sistemas. Apaixonado pelo Desenvolvimento Backend e pela Segurança da Informação. Atualmente estou aprendendo PHP e Python</p>
 
 <hr>
 
@@ -8,7 +8,13 @@
   <li> 🚀 Novos Desafios </li>
   <li> 💻 Contribuir com projetos Open Source </li>
   <li> 💛 Aprimorar meu conhecimento no Desenvolvimento Backend </li>
-  <li> 🖤 Aprender mais sobre Blockchain, Bitcoin, Criptografia e Sistemas Distribuidos </li>
+  <li> 🖤 Aprender mais sobre Segurança da Informação </li>
+</ul>
+
+#### Atualmente realizando:
+<ul>
+  <li> 🐘 Curso de PHP 7 da Cod3r </li>
+  <li> 🐉 Curso de Pentest Profissional v2020 da Solyd Treinamentos </li>
 </ul>
 
 <hr>
@@ -28,6 +34,7 @@
   <b>I'm current Learning:</b><br>
   <img src="https://user-images.githubusercontent.com/73726439/97770673-25a81380-1b14-11eb-8c84-20e931164d08.png" width="40px">
   <img src="https://user-images.githubusercontent.com/71419758/96328800-16f23480-101d-11eb-801c-7b8023928087.png" width="30px">
+  <img src="https://user-images.githubusercontent.com/73726439/100920658-31dc1380-34ba-11eb-97a0-fd885caa4ccd.png" width="30px">
 </p>
 
 <hr>
