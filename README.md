@@ -20,7 +20,7 @@
 <hr>
 
 <p align="center">
-  <b>Knowledge in codes:</b><br>
+  <b>Knowledge:</b><br>
   <img src="https://user-images.githubusercontent.com/71419758/96328607-6172b180-101b-11eb-8de4-81c94280bc05.png" width="32px">
   <img src="https://user-images.githubusercontent.com/71419758/96328608-63d50b80-101b-11eb-82b9-16f1cc817a6d.png" width="32px">
   <img src="https://user-images.githubusercontent.com/73726439/99457061-2361f980-2909-11eb-8572-e387f72720e3.png" width="30px">
@@ -34,7 +34,6 @@
   <b>I'm current Learning:</b><br>
   <img src="https://user-images.githubusercontent.com/73726439/97770673-25a81380-1b14-11eb-8c84-20e931164d08.png" width="40px">
   <img src="https://user-images.githubusercontent.com/71419758/96328800-16f23480-101d-11eb-801c-7b8023928087.png" width="30px">
-  <img src="https://user-images.githubusercontent.com/73726439/100920658-31dc1380-34ba-11eb-97a0-fd885caa4ccd.png" width="30px">
 </p>
 
 <hr>
