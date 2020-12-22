@@ -13,7 +13,7 @@
 
 #### Atualmente realizando:
 <ul>
-  <li> 🐘 Curso de PHP 7 da Cod3r </li>
+  <li> 🐘 Curso de PHP DevMedia </li>
   <li> 🐉 Curso de Pentest Profissional v2020 da Solyd Treinamentos </li>
 </ul>
 
