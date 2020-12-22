@@ -1,5 +1,5 @@
 <p align="center"> <b>Fala, Visitante! Me chamo Mateus Cavalcanti</b> 🖖🏻 </p>
-<p align="center"> Sou estudante de Analise e Desenvolvimento de Sistemas. Apaixonado pelo Desenvolvimento Backend e pela Segurança da Informação. Atualmente estou aprendendo PHP e Python</p>
+<p align="center"> Sou estudante de Analise e Desenvolvimento de Sistemas. Apaixonado pelo Desenvolvimento Backend e pela Segurança da Informação. Atualmente estou aprendendo Java e Python</p>
 
 <hr>
 
@@ -13,7 +13,7 @@
 
 #### Atualmente realizando:
 <ul>
-  <li> 🐘 Curso de PHP DevMedia </li>
+  <li> 🐘 Curso de Java DevMedia </li>
   <li> 🐉 Curso de Pentest Profissional v2020 da Solyd Treinamentos </li>
 </ul>
 
@@ -23,7 +23,7 @@
   <b>Knowledge:</b><br>
   <img src="https://user-images.githubusercontent.com/71419758/96328607-6172b180-101b-11eb-8de4-81c94280bc05.png" width="32px">
   <img src="https://user-images.githubusercontent.com/71419758/96328608-63d50b80-101b-11eb-82b9-16f1cc817a6d.png" width="32px">
-  <img src="https://user-images.githubusercontent.com/73726439/102720295-439f2280-42d2-11eb-827c-7db46c6ba580.png" width="33px">
+  <img src="https://user-images.githubusercontent.com/73726439/102839878-5011a100-43e0-11eb-998f-9baf512654d6.png" width="40px">
   <img src="https://user-images.githubusercontent.com/73726439/97770673-25a81380-1b14-11eb-8c84-20e931164d08.png" width="36px">
   <img src="https://user-images.githubusercontent.com/71419758/96328711-64ba6d00-101c-11eb-96ec-9c43920b198b.png" width="30px">
   <img src="https://user-images.githubusercontent.com/71419758/96328715-73a11f80-101c-11eb-9572-cad128eba19e.png" width="30px">
@@ -32,7 +32,7 @@
 
 <p align="center">
   <b>I'm current Learning:</b><br>
-  <img src="https://user-images.githubusercontent.com/73726439/97770673-25a81380-1b14-11eb-8c84-20e931164d08.png" width="40px">
+  <img src="https://user-images.githubusercontent.com/73726439/102839878-5011a100-43e0-11eb-998f-9baf512654d6.png" width="40px">
   <img src="https://user-images.githubusercontent.com/71419758/96328800-16f23480-101d-11eb-801c-7b8023928087.png" width="30px">
 </p>
 
